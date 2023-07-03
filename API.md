@@ -17,9 +17,9 @@ https://tv.cctv.com/m/
 
 #### 1.1部分效果图
 
-| <img src="D:\opensource_workspace\IPTVLive\images\1.png" style="zoom:50%;" /> | <img src="D:\opensource_workspace\IPTVLive\images\2.png" style="zoom:50%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="D:\opensource_workspace\IPTVLive\images\3.png" style="zoom:30%;" /> |                                                              |
+| <img src="images\1.png" style="zoom:50%;" /> | <img src="images\2.png" style="zoom:50%;" /> |
+| -------------------------------------------- | -------------------------------------------- |
+| <img src="images\3.png" style="zoom:30%;" /> |                                              |
 
 
 ### 2、直播
